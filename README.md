@@ -10,7 +10,7 @@
 <br/>
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=ifabriciorodrigues&theme=blueberry" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifabriciorodrigues&langs_count=6&show_icons=true&locale=en&layout=compact&theme=dark" alt="Fabrício's language" height="192px"  width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifabriciorodrigues&langs_count=6&hide=css,html&show_icons=true&locale=en&layout=compact&theme=dark" alt="Fabrício's most used programming languages" height="192px"  width="500px"/>
 </div>
 <br>
 
